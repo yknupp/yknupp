@@ -1,16 +1,15 @@
-### Hi there 👋
+### Yuri Knupp aqui :)
 
-<!--
-**yknupp/yknupp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer Jr
 
-Here are some ideas to get you started:
+Estudante do IF Sudeste MG, campus Juiz de Fora, como Técnico em Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente trabalhando como desenvolvedor Full Stack Jr na Ong Somos Todos Heróis.
+
+🛠  Tech Stack
+
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+
+
+
+          
