@@ -1,6 +1,7 @@
   ### Hello World 👋 I`m Yuri Knupp
 
 - 👨‍💻 I’m currently working as full stack developer, mainly with applications in React and Node at Somos Todos Heróis.
+- 📚 I'm studying the Computer Engineering course at Cefet - MG.
 - 📚 I'm always trying to improve my programming skills and learn new things. 
 - 📧 How to contact me: yuriknupp@yahoo.com.br || (32)999372618
 <br>
